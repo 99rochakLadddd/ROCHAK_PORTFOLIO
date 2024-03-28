@@ -10,7 +10,7 @@ const Home = () => {
         <h3 className="developer-posi"> Web Developer | Web Designer</h3>
         <p className="my-intro">Hello! I'm a dedicated Web Developer based in Kathmandu, Nepal. Specializing in website design and development, I'm committed to creating seamless online experiences. With a strong technical background, I bring innovation and precision to every project. Let's build something amazing together and elevate your online presence!.</p>
         <div className="photo">
-          <img src='https://ennepalkhabar.prixacdn.net/media/attachments/2023/12/01/ai-tea-and-momo_3_i2jktdb5wz.jpg'></img>
+          <img src='robots.png'></img>
         </div>
       </div>
       <div className="social-media">
